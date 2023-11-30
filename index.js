@@ -7,7 +7,7 @@ var typewriter = new Typewriter(app, {
 
 typewriter
   .pauseFor(1000)
-  .typeString('Software Developer based in Toronto.') //Add your own tagline
+  .typeString('I am a Software Developer based in Toronto.') //Add your own tagline
   .pauseFor(3000)
   .start()
 
