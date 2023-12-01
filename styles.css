@@ -210,12 +210,12 @@ ul {
   font-size: 15px;
 }
 
-.english {
-  width: 100%;
-}
-
 .mandarin {
   width: 95%;
+}
+
+.english {
+  width: 100%;
 }
 
 .cantonese {
