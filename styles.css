@@ -210,20 +210,20 @@ ul {
   font-size: 15px;
 }
 
-.italian {
-  width: 100%;
-}
-
 .english {
   width: 100%;
 }
 
-.german {
+.mandarin {
+  width: 95%;
+}
+
+.cantonese {
   width: 85%;
 }
 
-.mandarin {
-  width: 20%
+.french {
+  width: 90%
 }
 
 @media only screen and (max-width: 550px) and (min-width: 200px){
