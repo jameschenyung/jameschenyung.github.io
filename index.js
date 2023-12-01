@@ -249,11 +249,14 @@ spanModalHobby4.onclick = function() {
 }
 
 // When the user clicks anywhere outside of the modal, close it
+
+/**
 window.onclick = function(event) {
   if (event.target == modalHobby4) {
     modalHobby4.style.display = "none";
   }
 }
+*/
 
 //BUTTON HOBBY 5
 var modalHobby5 = document.getElementById("modalHobby5");
