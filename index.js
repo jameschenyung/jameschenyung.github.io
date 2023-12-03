@@ -88,7 +88,7 @@ window.onclick = function(event) {
 //BUTTON 3 -- links to outside website
 var btn3 = document.getElementById("btn3");
 btn3.onclick = function() { 
-  window.open("https://www.nintendo.com", "_blank") //TODO add your link
+  window.open("https://github.com/Amaan-N-K/suitemate", "_blank")
 }
 
 //BUTTON 4
