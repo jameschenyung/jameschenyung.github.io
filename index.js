@@ -7,7 +7,7 @@ var typewriter = new Typewriter(app, {
 
 typewriter
   .pauseFor(1000)
-  .typeString('I am a Software Developer based in Toronto.') //Add your own tagline
+  .typeString('I am a Software Developer based in Toronto.')
   .pauseFor(3000)
   .start()
 
@@ -17,7 +17,7 @@ var granimInstance = new Granim({
     direction: 'top-bottom',
     isPausedWhenNotInView: true,
     image : {
-        source: 'assets/snow.jpg', //change image for intro section if desired
+        source: 'assets/snow.jpg',
         blendingMode: 'multiply',
     },
     states : {
@@ -146,7 +146,7 @@ window.onclick = function(event) {
 //BUTTON 6 -- links to outside website
 var btn6 = document.getElementById("btn6");
 btn6.onclick = function() { 
-  window.open("https://www.arduino.cc", "_blank") //TODO add your link
+  window.open("https://www2.yrdsb.ca/schools-programs/indigenous-languages-and-international-languages/indigenous-languages-and", "_blank")
 }
 
 //HOBBY MODALS
